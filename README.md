@@ -22,4 +22,9 @@
 
 📫 How to reach me:
 - [Upwork profile](https://www.upwork.com/freelancers/~01771c35865177ae8e)
-- Telegram: `@yourusername`
+- Telegram: `@tenishaardelia`
+- [Gmail](valeriu151004.gvv@gmail.com)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=valero-gv&show_icons=true&theme=radical" alt="valero-gv stats" />
+</p>
