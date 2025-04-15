@@ -11,9 +11,9 @@
 - 🧩 Backend systems using REST, SQL, and APIs
 
 🛠️ Tech Stack:
-- **Languages**: Go, SQL, HTML/CSS
+- **Languages**: Go, SQL
 - **Tools**: PostgreSQL, Docker, Git, Swagger
-- **Concepts**: REST APIs, microservices, backend architecture, automation
+- **Concepts**: Blockchain, REST APIs, microservices, backend architecture, automation
 
 📈 Learning:
 - Blockchain development (Ethereum, zkSync)
