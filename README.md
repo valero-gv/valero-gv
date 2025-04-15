@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://your-image-url.com/banner.png" width="100%" />
+</p>
+
 <h1 align="center">Hi, I'm Valeriy 👋</h1>
 <p align="center">
   <strong>Junior Golang Developer | Backend | APIs | Web3 enthusiast</strong>
