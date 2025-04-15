@@ -23,7 +23,7 @@
 📫 How to reach me:
 - [Upwork profile](https://www.upwork.com/freelancers/~01771c35865177ae8e)
 - Telegram: `@tenishaardelia`
-- [Gmail](valeriu151004.gvv@gmail.com)
+- Gmail `valeriu151004.gvv@gmail.com`
 
 <h3 align="center">Tech Stack</h3>
 <p align="center">
