@@ -6,9 +6,9 @@
 ---
 
 🚀 I'm currently working on:
-- 🧠 Airdrop Watcher Bot (Go + Web3)
-- 🤖 Telegram bots for automating crypto tracking
-- 🧩 Backend systems using REST, SQL, and APIs
+-  Airdrop Watcher Bot (Go + Web3)
+-  Telegram bots for automating crypto tracking
+-  Backend systems using REST, SQL, and APIs
 
 🛠️ Tech Stack:
 - **Languages**: Go, SQL
