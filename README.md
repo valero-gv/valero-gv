@@ -7,7 +7,7 @@
 
 🚀 **About Me**
 
-I'm a passionate and ambitious Go developer focused on building robust backend systems, automation tools, and system-level solutions.  
+I'm a passionate and ambitious Go developer focused on building robust backend systems, automation tools, and system-level solutions.
 I enjoy solving complex engineering problems, integrating with third-party APIs, and delivering reliable, maintainable code.
 
 ---
@@ -16,17 +16,29 @@ I enjoy solving complex engineering problems, integrating with third-party APIs,
 
 - **Languages:** Go (Golang), SQL
 - **Frameworks & Tools:** Docker, PostgreSQL, Redis, Selenium, Robotgo, Swagger, Git
-- **Concepts:** REST APIs, microservices, automation, system programming, CI/CD, testing
+- **Concepts:** REST APIs, microservices, backend architecture, automation, system programming, CI/CD, testing
 
 ---
 
-💡 **Key Skills**
+💡 **Key Backend Skills**
+
+- Designing and implementing scalable RESTful APIs
+- Building microservices and distributed systems
+- Database modeling, optimization, and migrations (PostgreSQL, SQL)
+- Integrating with third-party services and APIs
+- Writing clean, maintainable, and well-documented backend code
+- Implementing authentication, authorization, and security best practices
+- Setting up CI/CD pipelines and automated testing for backend services
+- Performance profiling and optimization of backend applications
+
+---
+
+💡 **Key Automation & System Skills**
 
 - Automation of Windows and web applications (robotgo, Selenium)
 - Embedding resources into Go binaries for portable deployment
 - Integration with external systems (Katalon, REST APIs)
-- Writing clean, maintainable, and well-documented code
-- Experience with CI/CD pipelines and automated testing
+- System programming and working with OS-level APIs
 
 ---
 
@@ -34,7 +46,6 @@ I enjoy solving complex engineering problems, integrating with third-party APIs,
 
 - **GoAuto**: A Go-based tool for automating testing and managing Windows and web applications, featuring Katalon integration, robotgo and Selenium support, and embedding all required resources directly into the executable.
 - Backend systems for business automation (REST APIs, SQL, Docker)
-- [Add 1-2 других серьёзных проекта, если есть]
 
 ---
 
