@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Valeriy 👋</h1>
 <p align="center">
-  <strong>Junior Golang Developer | Backend | APIs | Web3 enthusiast</strong>
+  <strong>Junior+ Golang Developer | Backend | APIs | Automation</strong>
 </p>
 
 ---
@@ -12,13 +12,14 @@
 
 🛠️ Tech Stack:
 - **Languages**: Go, SQL
-- **Tools**: PostgreSQL, Docker, Git, Swagger
-- **Concepts**: Blockchain, REST APIs, microservices, backend architecture, automation
+- **Tools**: PostgreSQL, Docker, Git, Swagger, Redis, Kafka
+- **Concepts**: REST APIs, microservices, backend architecture, automation, blockchain
 
 📈 Learning:
-- Blockchain development (Ethereum, zkSync)
-- Smart contract interaction from Go
+- Backend development
+- Automation
 - Product thinking & system design
+- Blockchain development (Ethereum, zkSync)
 
 📫 How to reach me:
 - [Upwork profile](https://www.upwork.com/freelancers/~01771c35865177ae8e)
