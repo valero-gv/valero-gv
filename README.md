@@ -1,90 +1,80 @@
-## Hi, I'm Valera 👋
-Backend / Golang Engineer focused on designing reliable backend systems and developer-friendly infrastructure.
+# Valeriy Gurduza — Go Backend Engineer
 
-I have experience working on both enterprise-grade internal platforms and startup products, taking responsibility for backend architecture, performance, and integration workflows.
+I build backend services and infrastructure in Go: APIs, integrations, async workflows, caching systems, automation tools, and reliability-focused backend components.
 
----
+Currently looking for **Go Backend / Platform / Integration Engineer** roles — remote, relocation, or contract.
 
-## 🧠 What I Work On
+## What I work with
 
-- Designing backend architectures and service interactions
-- Building and evolving REST / gRPC APIs
-- Defining data models and API contracts (OpenAPI)
-- Improving system performance, observability, and reliability
-- Automating integration and delivery workflows
+- **Backend:** Go, REST APIs, service design, async workflows, error handling, retries, idempotency
+- **Databases & infra:** PostgreSQL, Redis, SQL, Docker, Kafka, CI/CD
+- **Reliability:** structured logging, observability, testing, performance-aware backend design
+- **Integrations:** third-party APIs, payment/fintech-style flows, automation systems
+- **AI-assisted development:** Cursor, ChatGPT, Claude-style workflows for faster prototyping and code review
 
----
+## Selected projects
 
-## 💼 Selected Engineering Work
+### [CacheFlow](https://github.com/valero-gv/CacheFlow)
+Lightweight caching system written in Go.
 
-### Backend Analytics Platform
-Worked on backend architecture and service design for an internal analytics platform.
+- TCP server and CLI client
+- In-memory key-value storage
+- TTL support
+- Append-only file persistence
+- Roadmap: replication, metrics, sharding, distributed consensus
 
-- Designed service boundaries and API contracts (OpenAPI, gRPC)
-- Built internal services in Go with PostgreSQL
-- Introduced automatic client SDK generation from API specs
-- Collaborated closely with other teams on integrations and data flows
-
-**Focus:** architecture, contracts, integration reliability
+**Why it matters:** demonstrates low-level backend infrastructure, protocol design, persistence, and Go concurrency fundamentals.
 
 ---
 
-### Task Management System
-Owned backend development of an internal task management system used by a multi-team environment.
+### [SnapCheck](https://github.com/valero-gv/SnapCheck-Basic-Capability-Test)
+Go microservice for validating and analyzing JPEG images.
 
-- Designed and implemented core backend services in Go
-- Built authentication and authorization mechanisms (JWT)
-- Introduced caching and asynchronous event handling
-- Took responsibility for performance tuning (~300 RPS)
-- Set up CI/CD, metrics, and monitoring
+- Binary-level JPEG validation
+- EXIF metadata extraction
+- Structured JSON API responses
+- Quality heuristics for timestamps, orientation, and low-resolution images
+- Unit-testable backend service structure
 
-**Focus:** ownership, performance, observability
-
----
-
-### Distributed Test Automation Backend
-Contributed to a distributed backend system used for automated testing workflows.
-
-- Designed and implemented service APIs (REST / gRPC)
-- Built CI/CD pipelines and standardized deployment workflows
-- Improved system stability through logging and monitoring
-- Reduced deployment time by optimizing build and delivery processes
-
-**Focus:** infrastructure, automation, reliability
+**Why it matters:** demonstrates backend API design, file processing, validation logic, error handling, and clean service boundaries.
 
 ---
 
-### Football Manager Platform (Startup)
-Backend engineer in a startup team building a football manager platform.
+### [TON WebApp Backend Template](https://github.com/valero-gv/TON-WebApp-Backend-Template)
+Backend template for TON/WebApp-style applications.
 
-- Designed core business logic (transfers, seasons, commissions)
-- Built APIs for user management and domain logic
-- Optimized database access and introduced caching
-- Participated in system design and delivery processes in a small team
-
-**Focus:** business logic, performance, teamwork
+**Why it matters:** demonstrates backend templates, API structure, authentication/integration patterns, and readiness for crypto/web3 infrastructure projects.
 
 ---
 
-## 🛠 Tech Stack
+### [Blockchain Address Validator](https://github.com/valero-gv/Blockchain-Address-Validator)
+Go service/tool for validating blockchain addresses.
 
-- **Language:** Go
-- **Backend:** REST, gRPC, service-oriented architecture
-- **Data:** PostgreSQL, Redis
-- **Infrastructure:** Docker, CI/CD
-- **Observability:** Prometheus, Grafana
-- **API Design:** OpenAPI, JWT
+**Why it matters:** demonstrates validation logic, blockchain-related backend utilities, and fintech/web3 domain interest.
 
 ---
 
-## 🎯 What I'm Looking For
+### [web_ai_agent](https://github.com/valero-gv/web_ai_agent)
+Experiment around AI agent workflows and backend automation.
 
-- Backend / Platform engineering roles
-- Systems with non-trivial logic or scale
-- Teams that value clean architecture and ownership
+**Why it matters:** shows interest in agentic AI, automation, and backend orchestration.
 
----
+## What I’m looking for
 
-## 📫 Contact
+I’m interested in teams building:
+
+- backend platforms
+- fintech/payment systems
+- API infrastructure
+- developer tools
+- distributed systems
+- AI/agent backend infrastructure
+- automation-heavy products
+
+I’m especially strong in roles where backend reliability, integrations, and practical delivery matter more than frontend polish.
+
+## Contact
+
 - Email: valeriu151004.gvv@gmail.com
-- GitHub: https://github.com/valero-gv
+- Telegram: https://t.me/tenishaardelia
+- LinkedIn: add-your-link-here
